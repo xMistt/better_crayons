@@ -40,7 +40,7 @@ setup(
     maintainer='xMistt',
     maintainer_email='xmistt@github.com',
     url='https://github.com/xMistt/better_crayons',
-    py_modules=['crayons'],
+    py_modules=['better_crayons'],
     install_requires=required,
     license='MIT',
     classifiers=[
